@@ -35,4 +35,3 @@ RUN chmod 755 /Sophia.sh
 EXPOSE 8900
 
 CMD  /Sophia.sh
-
